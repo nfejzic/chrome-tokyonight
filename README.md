@@ -1,19 +1,19 @@
-# chrome-gruvbox
-Port of the gruvbox retro groove color scheme for Chrome
+# chrome-tokyonight
+Port of the Tokyonight color scheme by folke for Chrome.
 
-The original Vim theme can be found here: https://github.com/morhetz/gruvbox
+The original Neovim theme can be found here: https://github.com/folke/tokyonight.nvim
 
 ## Installation
 
-Install via the Chrome Webstore: [gruvbox theme](https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalflhgmanop)
+Install via the Chrome Webstore: [Tokyonight Theme](https://chrome.google.com/webstore/detail/gruvbox-theme/ihennfdbghdiflogeancnalflhgmanop)
 
 ## Screenshots
 
 ![gruvbox Chrome Theme Screenshot](screenshot.png)
 
 ## Contributing
-Issues/PRs are much appreciated!
 
+Issues/PRs are much appreciated!
 Feature requests/improvements welcome.
 
 ## License
